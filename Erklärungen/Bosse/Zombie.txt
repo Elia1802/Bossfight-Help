@@ -1,0 +1,27 @@
+Hier findet man Informationen über das Zombie
+
+Mobart: minecraft:zombie
+Name: Zombie Boss
+Leben: 500
+Rüstung: Wird immer random entschieden zwischen Diamant oder Netherite Rüstung. (Jedes teil wird einzelnd entschieden)
+Rüstungsverzauberungen: 
+	Helm:
+		Diamant: Feuerschutz, Schutz, Dornen
+		Netherite: Feuerschutz, Schutz, Dornen
+	Brustpanzer:
+		Diamant: Feuerschutz, Schutz, Dornen
+		Netherite: Feuerschutz, Schutz, Dornen
+	Hose:
+		Diamant: Feuerschutz, Schutz, Dornen
+		Netherite: Feuerschutz, Schutz, Dornen
+	Schuhe:
+		Diamant: Feuerschutz, Schutz, Dornen, Eisläufer
+		Netherite: Feuerschutz, Schutz, Dornen, Eisläufer
+Waffen: Es wird im random eine Axt oder ein Schwert gegeben. 
+Waffenverzauberungen:
+	Axt:
+		Diamant: Schärfe
+		Netherite: Schärfe
+	Schwert:
+		Diamant: Schärfe, Verbrennung
+		Netherite: Schärfe, Verbrennung

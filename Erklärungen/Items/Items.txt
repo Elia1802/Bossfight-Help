@@ -1,0 +1,5 @@
+Hier werden alle Custom Items aufgelistet die es gibt.
+
+Zombie Spawn Egg:
+	Wo bekommt man es her? - Man bekommt es in den man es craftet oder durch den give Command von diesem Plugin.
+	Was macht es? - Der Bossfight wird gestartet.

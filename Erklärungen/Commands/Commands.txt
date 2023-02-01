@@ -1,0 +1,20 @@
+Hier stehen alle Commands aus dem Plugin drine.
+
+Help Command:
+	/bosshelp bosses = Sendet die Hilfe für alle existierenden Bosse. [Permission: keine]
+	/bosshelp commands = Sendet eine Liste mit allen verfügbaren Commands und deren Funktion. [Permission: keine]
+	/bosshelp items = Sendet eine Liste von allen Items die modifiziert wurden. [Permission: keine]
+	/bosshelp recipes = Sendet eine Erkärung über alle verfügbaren Rezepte. [Permission: keine]
+
+Idea Command:
+	/mobidea {message} = Speichert die {message} in eine Config und Elia kann sich die idee dann ansehen. [Permission: keine]
+Item Command:
+	/bossgive [Item] = Gibt das ausgewählte Item den Spieler. [Permission: soulboss.give]
+Mob Command:
+	/bossfight start = Startet den Bossfight. [Permission: soulboss.fight]
+	/bossfight stop = Stoppt den Bossfight.  [Permission: soulboss.fight]
+Plugin Command:
+	/soulboss version = Sendet dem Spieler die Version des Plugins. [Permission: soulboss.plugin]
+	/soulboss author = Sendet dem Spieler die Athoren des Plugins. [Permission: soulboss.plugin]
+	/soulboss description = Sendet dem Spieler die Description des Plugins. [Permission: soulboss.plugin]
+	/soulboss permissions = Sendet dem Spieler die Permissions des Plugins. [Permission: soulboss.plugin]
