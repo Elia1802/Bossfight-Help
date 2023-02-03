@@ -14,13 +14,13 @@ Mob Command:
 	/bossfight start = Startet den Bossfight. [Permission: soulboss.fight]
 	/bossfight stop = Stoppt den Bossfight.  [Permission: soulboss.fight]
 Plugin Command:
-	/soulboss version = Sendet dem Spieler die Version des Plugins.
-	/soulboss author = Sendet dem Spieler die Athoren des Plugins.
-	/soulboss description = Sendet dem Spieler die Description des Plugins.
+	/soulboss version = Sendet dem Spieler die Version des Plugins. [Permission: keine]
+	/soulboss author = Sendet dem Spieler die Athoren des Plugins. [Permission: keine]
+	/soulboss description = Sendet dem Spieler die Description des Plugins. [Permission: keine]
 	/soulboss permissions = Sendet dem Spieler die Permissions des Plugins. [Permission: soulboss.plugin]
 	/soulboss reload plugin = Lädt das Plugin neu. [Permission: soulboss.plugin]
 	/soulboss reload configuration = Lädt alle Configuration Files neu. [Permission: soulboss.plugin]
 	/soulboss stop fights = Beendet alle aktiven Bossfights. [Permission: soulboss.plugin]
 	/soulboss stop plugin = Beendet das komplette Plugin. [Permission: soulboss.plugin]
-	/soulboss github code = Sendet dem Spieler ein Link mit den Open-Source-Code.
-	/soulboss github help = Sendet dem Spieler ein Link mit der Hilfs-Reposity. (Diese) 
+	/soulboss github code = Sendet dem Spieler ein Link mit den Open-Source-Code. [Permission: keine]
+	/soulboss github help = Sendet dem Spieler ein Link mit der Hilfs-Reposity. (Diese)  [Permission: keine]
