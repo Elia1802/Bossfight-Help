@@ -9,7 +9,7 @@ Help Command:
 Idea Command:
 	/mobidea {message} = Speichert die {message} in eine Config und Elia kann sich die idee dann ansehen. [Permission: keine]
 Item Command:
-	/bossgive [Item] = Gibt das ausgewählte Item den Spieler. [Permission: soulboss.give]
+	/bossgive [player] [Item] = Gibt das ausgewählte Item den Spieler. [Permission: soulboss.give]
 Mob Command:
 	/bossfight start = Startet den Bossfight. [Permission: soulboss.fight]
 	/bossfight stop = Stoppt den Bossfight.  [Permission: soulboss.fight]
@@ -18,3 +18,7 @@ Plugin Command:
 	/soulboss author = Sendet dem Spieler die Athoren des Plugins. [Permission: soulboss.plugin]
 	/soulboss description = Sendet dem Spieler die Description des Plugins. [Permission: soulboss.plugin]
 	/soulboss permissions = Sendet dem Spieler die Permissions des Plugins. [Permission: soulboss.plugin]
+	/soulboss reload plugin = Lädt das Plugin neu. [Permission: soulboss.plugin]
+	/soulboss reload configuration = Lädt alle Configuration Files neu. [Permission: soulboss.plugin]
+	/soulboss stop fights = Beendet alle aktiven Bossfights. [Permission: soulboss.plugin]
+	/soulboss stop plugin = Beendet das komplette Plugin. [Permission: soulboss.plugin]
